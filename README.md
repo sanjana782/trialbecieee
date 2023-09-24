@@ -1,2 +1,2 @@
 # trialbecieee
-trail to demonstrate github
+trail to demonstrate github for freshers
